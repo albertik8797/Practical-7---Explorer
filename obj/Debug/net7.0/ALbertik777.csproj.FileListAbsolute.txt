@@ -1,0 +1,15 @@
+/Users/albertselev/Projects/ALbertik777/ALbertik777/obj/Debug/net7.0/ALbertik777.csproj.AssemblyReference.cache
+/Users/albertselev/Projects/ALbertik777/ALbertik777/obj/Debug/net7.0/ALbertik777.GeneratedMSBuildEditorConfig.editorconfig
+/Users/albertselev/Projects/ALbertik777/ALbertik777/obj/Debug/net7.0/ALbertik777.AssemblyInfoInputs.cache
+/Users/albertselev/Projects/ALbertik777/ALbertik777/obj/Debug/net7.0/ALbertik777.AssemblyInfo.cs
+/Users/albertselev/Projects/ALbertik777/ALbertik777/obj/Debug/net7.0/ALbertik777.csproj.CoreCompileInputs.cache
+/Users/albertselev/Projects/ALbertik777/ALbertik777/bin/Debug/net7.0/ALbertik777
+/Users/albertselev/Projects/ALbertik777/ALbertik777/bin/Debug/net7.0/ALbertik777.deps.json
+/Users/albertselev/Projects/ALbertik777/ALbertik777/bin/Debug/net7.0/ALbertik777.runtimeconfig.json
+/Users/albertselev/Projects/ALbertik777/ALbertik777/bin/Debug/net7.0/ALbertik777.dll
+/Users/albertselev/Projects/ALbertik777/ALbertik777/bin/Debug/net7.0/ALbertik777.pdb
+/Users/albertselev/Projects/ALbertik777/ALbertik777/obj/Debug/net7.0/ALbertik777.dll
+/Users/albertselev/Projects/ALbertik777/ALbertik777/obj/Debug/net7.0/refint/ALbertik777.dll
+/Users/albertselev/Projects/ALbertik777/ALbertik777/obj/Debug/net7.0/ALbertik777.pdb
+/Users/albertselev/Projects/ALbertik777/ALbertik777/obj/Debug/net7.0/ALbertik777.genruntimeconfig.cache
+/Users/albertselev/Projects/ALbertik777/ALbertik777/obj/Debug/net7.0/ref/ALbertik777.dll
